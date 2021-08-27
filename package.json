@@ -1,0 +1,15 @@
+{
+  "name": "botthatmails",
+  "version": "1.0.0",
+  "description": "This app help you send emails.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.6.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
