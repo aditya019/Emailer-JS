@@ -32,7 +32,7 @@ const emailer = async (userEmail, userPass, emailService) => {
 
 console.log('Welcome To Emailer-JS');
 const userEmail = prompt("Enter your Email : ");
-const userPass = prompt("Enter your password : ");
+const userPass = prompt("Enter your password : ", {echo: '*'});
 const emailService = prompt('Enter the name of your email service (eg: gmail)');
 console.log(`Your email is ${userEmail}`);
 emailer(userEmail, userPass, emailService);
