@@ -1,5 +1,5 @@
 # Emailer-JS
-Using this app you can send email to anyone.
+Using this app you can send email to anyone without using a browser.
 
 A word of caution set the Access for less secure apps setting to Enable of your Email.
 
